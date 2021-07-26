@@ -1,7 +1,7 @@
 # KucoinNewListingNotifier
 Simple puppeteer app that checks for new token listings on Kucoin's new listing page
 
-###Getting Started
+### Getting Started
 * Make sure nodejs is installed
 * Run ``npm install``
 * Download Wirepusher for Android from [here](https://wirepusher.com/)
