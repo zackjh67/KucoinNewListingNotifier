@@ -1,0 +1,28 @@
+{
+  "name": "KucoinNewListingNotifier",
+  "version": "1.0.0",
+  "description": "pings the kucoin listing website to see if there are any new tokens on their exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackjh67/KucoinNewListingNotifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackjh67/KucoinNewListingNotifier/issues"
+  },
+  "homepage": "https://github.com/zackjh67/KucoinNewListingNotifier#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "got": "^11.8.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "puppeteer": "^10.1.0",
+    "yargs": "^17.0.1"
+  }
+}
